@@ -1,0 +1,22 @@
+/Users/caidennelson/Library/Java/JavaVirtualMachines/openjdk-23.0.1/Contents/Home/bin/java -javaagent:/Applications/IntelliJ IDEA CE.app/Contents/lib/idea_rt.jar=63886:/Applications/IntelliJ IDEA CE.app/Contents/bin -Dfile.encoding=UTF-8 -Dsun.stdout.encoding=UTF-8 -Dsun.stderr.encoding=UTF-8 -classpath /Users/caidennelson/IdeaProjects/UNWSP Java Class/out/production/Week 12 personTask
+What is your person's first name?
+Bob
+What is your person's last name?
+Smith
+What is your person's gender?
+male
+What is your person's ethnicity?
+white
+What is your person's religion?
+Christian
+What is your person's age?
+54
+What is your person's weight?
+200
+What is your person's height?
+72
+Type 1 to say a greeting. Type 2 to say a prayer. Type 3 to take a napType 4 to eat food. Type 5 to see the name. Type 6 to change religion
+1
+Hi
+
+Process finished with exit code 0
